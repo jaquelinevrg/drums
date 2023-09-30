@@ -6,3 +6,5 @@
 * HTML
 * CSS
 * JavaScript
+
+  ![image](https://github.com/jaquelinevrg/drums/assets/86803148/67636a52-542b-4911-ba47-1e3e44e7b220)
